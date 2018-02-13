@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-3">
+    <p>Allergy Score:</p>
+    <form action="/" method="POST" role="form">
+        <div class="form-group">
+            <input type="text" class="form-control" name="allergy-score" placeholder="Input a number.">
+            <button type="Submit" class="btn btn-primary mt-2">Submit</button>
+        </div>
+    </form>
+
+@if (Model != null)
+{   
+    <table class="table">
+    <th>Allergens that effect you:</th>
+    @foreach (var allergen in Model)
+    {
+    <tr>
+        <td>@allergen</td>
+    </tr>
+    }
+    </table>
+}
+</div>

@@ -1,0 +1,16 @@
+/Users/Guest/Desktop/Allergies/Allergies/bin/Debug/netcoreapp1.1/Allergies.deps.json
+/Users/Guest/Desktop/Allergies/Allergies/bin/Debug/netcoreapp1.1/Allergies.runtimeconfig.json
+/Users/Guest/Desktop/Allergies/Allergies/bin/Debug/netcoreapp1.1/Allergies.runtimeconfig.dev.json
+/Users/Guest/Desktop/Allergies/Allergies/bin/Debug/netcoreapp1.1/Allergies.dll
+/Users/Guest/Desktop/Allergies/Allergies/bin/Debug/netcoreapp1.1/Allergies.pdb
+/Users/Guest/Desktop/Allergies/Allergies/obj/Debug/netcoreapp1.1/Allergies.AssemblyInfo.cs
+/Users/Guest/Desktop/Allergies/Allergies/obj/Debug/netcoreapp1.1/Allergies.dll
+/Users/Guest/Desktop/Allergies/Allergies/obj/Debug/netcoreapp1.1/Allergies.pdb
+/Users/Guest/Desktop/Allergies.Solution/Allergies/bin/Debug/netcoreapp1.1/Allergies.deps.json
+/Users/Guest/Desktop/Allergies.Solution/Allergies/bin/Debug/netcoreapp1.1/Allergies.runtimeconfig.json
+/Users/Guest/Desktop/Allergies.Solution/Allergies/bin/Debug/netcoreapp1.1/Allergies.runtimeconfig.dev.json
+/Users/Guest/Desktop/Allergies.Solution/Allergies/bin/Debug/netcoreapp1.1/Allergies.dll
+/Users/Guest/Desktop/Allergies.Solution/Allergies/bin/Debug/netcoreapp1.1/Allergies.pdb
+/Users/Guest/Desktop/Allergies.Solution/Allergies/obj/Debug/netcoreapp1.1/Allergies.AssemblyInfo.cs
+/Users/Guest/Desktop/Allergies.Solution/Allergies/obj/Debug/netcoreapp1.1/Allergies.dll
+/Users/Guest/Desktop/Allergies.Solution/Allergies/obj/Debug/netcoreapp1.1/Allergies.pdb
