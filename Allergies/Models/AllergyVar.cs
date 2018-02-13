@@ -19,10 +19,6 @@ namespace Allergies.Models
         };
         private int _allergyNumber;
         private List<String> _allergyList = new List<String>{};
-        // public Allergy(int allergyNumber)
-        // {
-        //     _allergyNumber = allergyNumber;
-        // }
         public List<String> GetAllergyList (int allergyNumber)
         {
             int tempAllergyNumber = allergyNumber;

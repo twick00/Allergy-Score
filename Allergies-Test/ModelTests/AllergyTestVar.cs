@@ -18,6 +18,16 @@ namespace Allergies.Tests
 
             CollectionAssert.AreEqual(outputString, calcAllergyList);
         }
+        [TestMethod]
+        public void GetFalseAllergy_ReturnsAllergyList_StringList()
+        {
+            int allergyNumber = 175; //This translates to Cats, Chocolate and Tomatoes
+            Allergy allergyObj = new Allergy();
+            List<String> calcAllergyList = allergyObj.GetAllergyList(allergyNumber);
+            List<String> outputString = new List<String> { "Cats", "Chocolate", "Tomatoes" };
+
+            CollectionAssert.AreNotEqual(outputString, calcAllergyList);
+        }
     }
 }
 
